@@ -1,0 +1,6 @@
+{
+  "name": "PsicoRecibos",
+  "description": "Gerenciamento de recibos para psicanalista com persistência local, cadastro de pacientes, controle financeiro, Carnê-Leão e compartilhamento via WhatsApp e PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
